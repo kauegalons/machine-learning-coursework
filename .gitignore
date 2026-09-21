@@ -1,0 +1,8 @@
+# Trained models and scalers produced by running the notebooks
+*.pkl
+
+# Figures saved by the notebooks
+elbow_distorcao.png
+
+# Jupyter
+.ipynb_checkpoints/
